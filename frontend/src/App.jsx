@@ -1,31 +1,3 @@
-// import './App.css'
-
-// function App() {
-
-//   return (
-//     <>
-//       <div>
-//         <img src="cloud.png" alt="cute cloud icon" />
-//       </div>
-//       <h1 className='text-4xl font-semibold'>
-//         Welcome!
-//       </h1>
-//       <p className='text-orange-400'>this is a video conferencing app</p>
-//       <div className='flex flex-col items-center gap-y-2'>
-//         <button className='max-w-fit bg-amber-700 text-amber-100 font-semibold rounded-lg mt-10 hover:border-amber-300'>
-//           Create a room
-//         </button>
-//         <p>or</p>
-//         <form>
-//           <input type='text' placeholder='Enter the URL' className='border-amber-600 p-2 rounded-lg'/>
-//         </form>
-//       </div>
-//     </>
-//   )
-// }
-
-// export default App
-
 import { useState } from 'react'
 import './App.css'
 
